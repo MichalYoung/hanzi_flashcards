@@ -1,0 +1,540 @@
+﻿// Duolingo
+准备[準備]	zhun3bei4	verb 1 prepare; get ready 2 intend; plan
+输[輸]	shu1	verb 1 transport; convey 2 literary contribute money; donate  verb lose; beaten; defeated (opp. 赢)
+赢[贏]	ying2	verb 1 win; beat (opp. 输) 2 gain (profit)
+输赢[輸贏]	shu1ying2	1 win or loss 2 outcome
+赛[賽]	sai4	noun match; game; competition; contest  verb 1 have a competition 2 be comparable to; surpass
+排[排]	pai2	noun 1 row; line 2 military platoon 3 abbreviation volleyball  verb 1 arrange; put in order; line up 2 rehearse  measure word row; line  noun raft  verb 1 exclude; eject; discharge 2 discriminate against 3 literary push  noun steak; chop; griskin; short rib
+练[練]	lian4	verb 1 boil and scour raw silk 2 practise; train; drill 3 dialect compete (with one another)  adjective experienced; skilled; seasoned  noun 1 white silk 2 (Liàn) a surname
+篮球[籃球]	lan2qiu2	noun basketball
+单[單]	dan1	adjective 1 single (opp. 双) 2 odd (opp. 双) 3 single; solitary 4 simple 5 thin; weak 6 unlined (clothing)  adverb only; alone  noun 1 sheet 2 bill; list
+笑[笑]	xiao4	verb 1 smile; laugh 2 ridicule; laugh at
+着[著]	zhe5	auxiliary 1 [added to a verb or adjective to indicate a continued action or state, often with the particle 呢 at the end of the sentence] 2 [in sentences beginning with a place word, added to the verb to indicate a resultant state, the verb plus 着 having the force of “there is”] 3 [verb plus 着 placed before another verb, indicating an accompanying action or state] a [verb plus 着 serving as an adverbial modifier] b [verb plus 着 repeated, indicating that while one action is in progress another is expected] 4 [in imperative sentences, used after verbs or adjectives for emphasis, often with 点儿 added] 5 [in forming a preposition]
+油条[油條]	you2tiao2	1 youtiao (deep-fried breadstick) M: 根gēn [根] 2 slick and sly person
+姨[姨]	yi2	noun 1 mother's sister; maternal aunt; aunty 2 wife's sister; sister-in-law
+阿[阿]	a1	1 prefix used before monosyllabic names, kinship terms etc to indicate familiarity 2 used in transliteration 3 also pr. [à]
+粥[粥]	zhou1	noun gruel (made of rice, millet, etc.); porridge; congee
+妹[妹]	mei4	younger sister
+条[條]	tiao2	noun 1 twig 2 long narrow piece; strip; slip 3 brief informal note 4 item; article 5 order  measure word 1 [for long, or narrow, or thin objects] 2 [for certain nouns]
+系[係]	xi4	1 to connect 2 to relate to 3 to tie up 4 to bind 5 to be (literary)
+关[關]	guan1	noun 1 mountain pass; guarded passage 2 custom(s) house 3 area just outside a city gate 4 barrier; critical juncture 5 key part; crucial part; key factor 6 connection 7 (Guān) a surname  verb 1 shut; close 2 turn off 3 shut in; lock up; confine 4 (of a business) close down 5 concern; involve 6 dated give out (or draw) (pay)
+关系[關係]	guan1xi5	noun 1 connections; relations; relationship 2 [often used correlatively with 没有, 有] relevance; bearing; influence; significance 3 [usu. with 由于 or 因为 to indicate cause or reason] 4 credentials showing membership in or affiliation with an organization 5 euphemistic (extramarital) sexual relations  verb concern; affect; have a bearing on; have to do with
+亲戚[親戚]	qin1qi5	noun relative
+课[課]	ke4	noun 1 class 2 subject; course 3 lesson 4 dated division or subdivision of certain administrative units; section  noun dated tax  verb literary levy; collect tax; impose  noun dated a kind of divination; fortune-telling
+孩[孩]	hai2	(bound form) child
+教[教]	jiao4	verb teach; instruct  noun religion  VARIANT OF 24030464叫jiao4叫2 verb 1 ask; order; tell 2 permit; allow  preposition [in a passive sentence to introduce the doer of the action]
+叔[叔]	shu1	1 uncle 2 father's younger brother 3 husband's younger brother 4 Taiwan pr. [shú]
+笼[籠]	long2	1 enclosing frame made of bamboo, wire etc; cage; basket 2 steamer basket
+锅[鍋]	guo1	noun 1 pot; pan; boiler; cauldron 2 bowl (of a pipe, etc.)
+浆[漿]	jiang1	1 thick liquid 2 to starch
+等[等]	deng3	noun 1 class; grade; rank 2 kind; sort  verb wait; await  adjective equal; equivalent  preposition when; till  auxiliary 1 literary [after a personal pronoun or name to show plurality] 2 and so on; and so forth; etc. 3 [indicating the end of an enumeration]
+游戏[遊戲]	you2xi4	noun recreation; game  verb play
+肚子[肚子]	du3zi5	noun tripe
+疼[疼]	teng2	adjective ache; have a pain; be sore  verb love dearly; be fond of; dote on; care about
+药[葯]	yao4	1 leaf of the iris 2 variant of 药yào [药]
+病[病]	bing4	noun 1 disease; illness; sickness 2 malady; evil ills 3 fault; defect  verb 1 fall ill; be sick 2 literary do harm to; injure 3 literary distress; disapproval
+报[報]	bao4	verb 1 report; announce; declare 2 reply; respond; reciprocate 3 recompense; requite 4 revenge  noun 1 newspaper 2 periodical; journal 3 bulletin; report 4 telegram; cable 5 retribution; judgment
+纸[紙]	zhi3	noun paper  measure word literary [for letters, documents, etc.]
+随[隨]	sui2	verb 1 follow; come (or go) along with 2 comply with; adapt to 3 let (sb. do as he likes) 4 dialect look like; resemble  preposition along with (some other action)  noun (Suí) a surname
+便[便]	bian4	noun 1 urine or excrement; piss or shit 2 convenient situation or time  verb relieve oneself  adjective 1 convenient; handy 2 literary plain; ordinary  [like 就 but more formal] adverb 1 soon afterwards 2 in that case; then  conjunction even if
+季[季]	ji4	noun 1 season 2 the yield of a product in one season; crop 3 last month of a season 4 fourth or youngest among brothers 5 period of time; season 6 last period of (a dynasty) 7 (Jì) a surname
+节[節]	jie2	noun 1 joint; node; knot 2 division; part 3 festival; red-letter day; holiday 4 item 5 moral integrity; chastity  verb 1 abridge 2 economize; save; conserve  measure word section; length  measure word aerospace knot (kn)
+季节[季節]	ji4jie2	noun season
+秋天[秋天]	qiu1tian1	noun autumn (UK); fall (US)
+夏天[夏天]	xia4tian1	noun summer
+冬[冬]	dong1	winter
+间[間]	jian1	noun 1 space in between; between; among 2 (within a) definite time or space 3 room  measure word 1 [for rooms] 2 [for room space] a section of a room or the lateral space between two pairs of pillars
+右[右]	you4	noun 1 right (side) 2 dated west 3 right side as the side of precedence  adjective conservative; reactionary; the Right  verb literary 1 favour; uphold; advocate 2 VARIANT OF 35136512佑you4佑 help; protect; bless
+虽然[雖然]	sui1ran2	conjunction [often correlatively with 但是, 可是,etc.] though; although
+澳[澳]	ao4	deep bay; cove; harbor
+越来越[越來越]	yue4lai2yue4	adverb more and more
+后天[後天]	hou4tian1	noun day after tomorrow  noun post-natal; acquired (opp. 先天) medicine
+堵[堵]	du3	verb stop up; block up  adjective stifled; suffocated; oppressed  noun archaic wall  measure word [of walls]
+概[概]	gai4	1 (bound form) general; approximate 2 without exception; categorically 3 (bound form) bearing; deportment
+刚[剛]	gang1	adjective firm; strong; unyielding; indomitable (opp. 柔)  adverb 1 just; exactly; precisely 2 barely; only; just; no more than 3 only a short while ago; just
+迟到[遲到]	chi2//dao4	verb be (or come, arrive) late
+附[附]	fu4	verb 1 add; attach; enclose 2 get close to; be near 3 depend on; rely on; comply with
+园[園]	yuan2	noun 1 garden; plot; plantation; land for growing plants 2 place for public recreation 3 area for special purposes
+馆[館]	guan3	1 building 2 shop 3 term for certain service establishments 4 embassy or consulate 5 schoolroom (old) M: 家jiā [家]
+戚[慼]	qi1	1 variant of 戚qī [戚] 2 grief 3 sorrow
+秋[鞦]	qiu1	used in 秋千qiūqiān [秋千]
+越[越]	yue4	verb 1 get over; jump over 2 exceed; overstep 3 pass; go through 4 (of one's voice or emotion) be at a high pitch 5 literary plunder; pillage; loot  adjective superior  adverb [in 越…越…] the more… the more…  noun 1 one of the Warring States into which China was divided during the Eastern Zhou period (770-256 BC), comprising parts of modern Zhejiang and Jiangsu provinces 2 name for eastern Zhejiang Province 3 abbreviation Vietnam
+方[方]	fang1	noun 1 square 2 mathematics involution; power 3 abbreviation (usu. 平方米或立方米) square or cubic (usu. square or cubic metre) 4 (Fāng) a surname  adjective upright; honest  measure word [for square things]  noun 1 direction 2 side; party 3 place; region; locality  noun 1 method; way 2 prescription  adverb literary 1 just when; at the time when 2 only; just
+旧[舊]	jiu4	noun dated friendship; old friend  adjective 1 past; bygone; old (opp. 新) 2 used; worn; old (opp. 新) 3 former; onetime
+角[角]	jiao3	noun 1 horn 2 bugle; horn 3 sth. in the shape of a horn 4 cape; promontory; headland 5 corner 6 mathematics angle 7 archaic astronomy jiao (first of the twenty-eight constellations (二十八宿) into which the celestial sphere was divided, consisting of four stars in the shape of a cross in Virgo)  measure word quarter  measure word jiao (a fractional unit of money in China, equal to 1/10 of a yuan or 10 fen)  VARIANT OF 24004608饺jiao3饺 noun dumpling
+折[折]	zhe2	noun 1 discount; rebate 2 turning stroke  measure word an act of zaju (杂剧)  verb 1 break; snap 2 suffer the loss of; lose 3 bend; twist 4 turn back; change direction 5 convinced; filled with admiration 6 convert into; amount to  noun folded booklet with a slipcase, used for keeping accounts, etc.; folder  verb fold
+换[換]	huan4	verb 1 exchange; barter; trade 2 change 3 exchange; convert 4 colloquial transplant (an organ) 5 colloquial transfuse (blood)
+退[退]	tui4	verb 1 move back; retreat (opp. 进) 2 cause to move back; withdraw; remove 3 withdraw from; quit 4 decline; recede; ebb 5 fade 6 return; give back; refund 7 cancel; break off
+货[貨]	huo4	noun 1 money 2 goods; commodity 3 pejorative [in reference to a person]  verb literary sell
+皮[皮]	pi2	noun 1 skin; rind; peel 2 leather; hide; fur 3 cover; wrapper 4 surface 5 broad, flat piece (of some thin material); sheet 6 rubber 7 (Pí) a surname  adjective 1 become soft and soggy 2 naughty 3 case-hardened; apathetic 4 tenacious; sticky
+款[款]	kuan3	1 section 2 paragraph 3 funds M: 笔bǐ [笔] / 个gè [个] 4 classifier for versions or models (of a product)
+退款[退款]	tui4kuan3	1 to refund 2 refund
+退货[退貨]	tui4huo4	1 to return merchandise 2 to withdraw a product
+亚[亞]	ya4	1 second 2 next to 3 inferior 4 sub- 5 Taiwan pr. [yǎ]
+利[利]	li4	adjective 1 sharp (opp. 钝) 2 favourable; smooth; convenient 3 fluent; eloquent  noun 1 advantage; benefit (opp. 弊, 害) 2 profit; interest  verb 1 do good to; benefit 2 literary sharpen; perfect
+打[打]	da3	verb 1 strike; hit; knock 2 break; smash 3 beat; fight; attack 4 deal with sb. or sth. 5 construct; build 6 make (articles of daily use) 7 mix; stir; beat 8 tie up; pack 9 knit; weave 10 draw; paint; make a mark on 11 spray; spread 12 open; dig 13 hold up; hoist; raise 14 send; dispatch; project 15 dialect issue or receive (a certificate, etc.) 16 remove; get rid of 17 ladle; draw 18 buy 19 catch; hunt 20 gather in; collect; reap 21 estimate; calculate; reckon 22 work out 23 do; engage in 24 play 25 go through (or perform) (some physical action) 26 adopt; use 27 [used to give a clue to the answer when setting a riddle] 28 take  preposition dialect from; since
+样[樣]	yang4	noun 1 appearance; shape; look; form 2 manner; air; appearance 3 sample; model; pattern 4 tendency; likelihood  measure word kind; type
+袋[袋]	dai4	noun 1 bag; sack; pocket 2 (of marsupials) pouch  measure word bagful
+经[經]	jing1	noun 1 textile warp (opp. 纬) 2 Chinese medicine channels 3 geography longitude (opp. 纬) 4 scripture; sutra; canon; classic 5 menses; menstruation 6 (Jīng) a surname  verb 1 literary manage; deal in; engage in 2 hang oneself  adjective constant; regular  verb 1 pass through; undergo; experience 2 stand; bear; endure  preposition as a result of; after; through
+新[新]	xin1	adjective 1 new; fresh; up-to-date (opp. 老, 旧) 2 brand new; unused (opp. 旧) 3 recently married or just being married  adverb newly; freshly; recently  noun 1 (Xīn) Xin Dynasty (8-23 AD, between the Western Han and the Eastern Han) 2 (Xīn) a surname 3 the new
+习惯[習慣]	xi2guan4	1 habit 2 custom 3 usual practice 4 to be used to M: 个gè [个]
+总是[總是]	zong3shi4	always
+刷牙[刷牙]	shua1//ya2	verb brush (or clean) one's teeth
+北方[北方]	bei3fang1	noun 1 north 2 the northern part of China, esp. the area north of the Huang He River; the North
+辣[辣]	la4	adjective 1 peppery; hot 2 vicious; ruthless  verb (of smell or taste) burn; bite; sting
+一边[一邊]	yi1bian1	noun 1 one side; side 2 either side  adverb at the same time; simultaneously  adjective dialect same; equal
+洗澡[洗澡]	xi3//zao3	verb have (or take) a bath; bathe
+梦[夢]	meng4	noun 1 dream 2 fancy; illusion  verb dream; have a dream
+讲[講]	jiang3	noun lecture; speech  verb 1 speak; say; tell 2 explain; make clear; interpret 3 discuss; negotiate 4 stress; pay attention to; be particular about 5 as far as sth. is concerned; when it comes to; as to; as regards
+故事[故事]	gu4shi5	noun 1 story; tale 2 plot
+饺[餃]	jiao3	dumplings with meat filling
+极[極]	ji2	noun 1 utmost point; extremity 2 pole  verb literary do one's utmost  adjective extreme; of the highest degree  adverb extremely; to the greatest extent; exceedingly
+苦[苦]	ku3	adjective 1 bitter (opp. 甘, 甜) 2 hardship; suffering; pain 3 dialect cut off too much; be worn out  verb 1 cause sb. suffering; give sb. a hard time 2 suffer from; be troubled by  adverb painstakingly; doing one's utmost  meaningful bound form picr(o)-
+其他[其他]	qi2ta1	pronoun other; else
+南[南]	nan2	noun 1 south 2 (Nán) a surname
+咸[咸]	xian2	1 all 2 everyone 3 each 4 widespread 5 harmonious
+盐[鹽]	yan2	noun 1 (table) salt 2 chemistry salt (a product formed by the neutralization of an acid by a base)
+除[除]	chu2	verb 1 get rid of; eliminate; remove 2 mathematics divide 3 dated appoint to office  preposition 1 except 2 besides  noun literary steps to a house; doorsteps
+除了…以外[除了…以外]	chu2le5… yi3wai4
+极了[極了]	ji2le5	1 extremely 2 exceedingly
+饮料[飲料]	yin3liao4	noun beverage; drink (esp. a soft drink)
+蓝[藍]	lan2	noun 1 VARIANT OF 25880832蓼蓝liao3lan2蓼蓝 botany indigo plant (Polygonum tinctorium) 2 (Lán) a surname  adjective blue
+久[久]	jiu3	adjective 1 specified duration of time 2 for a long time; long (opp. 暂)
+初[初]	chu1	noun 1 the beginning of; the early part of 2 original 3 (Chū) a surname  adjective 1 first (in order) 2 elementary; rudimentary  adverb for the first time; just beginning
+级[級]	ji2	noun 1 level; rank; grade; class 2 any of the yearly divisions of a school course; grade; class; form 3 literary step 4 linguistics degree  measure word [for steps, etc.]
+镜[鏡]	jing4	1 mirror 2 lens
+戴[戴]	dai4	verb 1 put on; wear 2 respect; honour  noun (Dài) a surname
+先[先]	xian1	noun 1 elder generation; ancestor; forebear 2 beginning (opp. 后) 3 term of respect for the dead; deceased; late 4 (Xiān) a surname  adverb 1 earlier; before; first; in advance (opp. 后) 2 [with a negative word “不”,“别”,etc.] for the time being; for the moment 3 colloquial earlier on; before; at first
+直[直]	zhi2	adjective 1 straight (opp. 弯,曲) 2 vertical; perpendicular (opp. 横) 3 just; upright 4 frank; straightforward 5 stiff; numb  verb straighten  noun vertical stroke (in Chinese characters)  adverb 1 directly; straight 2 continuously 3 just; simply
+址[址]	zhi3	(bound form) site; location
+聊[聊]	liao2	adverb literary 1 merely; just; tentatively 2 a little; slightly  verb colloquial chat; gab  verb literary rely (or depend, draw) on
+迷[迷]	mi2	noun fan; enthusiast; fiend  verb 1 be confused; lose one's way; lost 2 be fascinated by; be crazy about 3 confuse; perplex; fascinate; enchant
+自[自]	zi4	pronoun self; oneself; one's own  adverb certainly; of course; naturally  preposition from; since
+己[己]	ji3	1 self 2 oneself 3 sixth of the ten Heavenly Stems 十天干shítiāngān [十天干] 4 sixth in order 5 letter "F" or Roman "VI" in list "A, B, C", or "I, II, III" etc 6 hexa
+长[長]	zhang3	adjective 1 older; elder; senior 2 eldest; oldest 3 chief; head  verb 1 grow; develop 2 come into being; begin to grow; form 3 acquire; enhance; increase
+轻[輕]	qing1	verb belittle; make light of  adjective 1 of little weight; light (opp. 重) 2 (of load, equipment, etc.) small; simple 3 small in number, degree, etc. 4 not serious; relaxing; light 5 not important 6 gentle; soft 7 rash
+眼镜[眼鏡]	yan3jing4	noun eyeglasses; glasses; spectacles
+老[老]	lao3	adjective 1 old; aged (opp. 少, 幼) 2 old; of long standing (opp. 新) 3 outdated; old-fashioned; obsolete (opp. 新) 4 original; former; same 5 (of vegetables) overgrown (opp. 嫩) 6 (of food) tough; overdone; well-done (opp. 嫩) 7 experienced; veteran; seasoned 8 (of certain colours) dark 9 colloquial last born; youngest  noun 1 senior person; old people; venerable old man 2 (Lǎo) a surname  verb dialect euphemistic [followed by 了 le, usu. of an old person] pass away; die  adverb colloquial 1 for a long time 2 always; all the time 3 very  affix 1 [in terms of address before the surnames of acquaintances or friends to indicate intimacy or informality] 2 [in kinship terms before numerals to indicate order of seniority] 3 [in certain names of animals and plants]
+年轻[年輕]	nian2qing1	adjective young
+比较[比較]	bi3jiao3	V. 1 compare; contrast 2 confer  ADV. relatively; fairly  N. comparison
+左[左]	zuo3	noun 1 the left side; the left (opp. 右) 2 east (opp. 右) 3 the Left; left wing (opp. 右) 4 VARIANT OF 37117952佐zuo3佐 II assistant  (Zuǒ) a surname  adjective 1 strange; unorthodox; heretical 2 wrong; incorrect 3 different; contrary; opposite 4 progressive; revolutionary (opp. 右)  verb VARIANT OF 37117952佐zuo3佐 I assist
+然后[然後]	ran2hou4	conjunction then; after that; afterwards
+往[往]	wang3	verb go  preposition in the direction of; towards; to  adjective past; previous literary
+围[圍]	wei2	verb enclose; surround; encompass  noun all round; around  measure word arm span
+般[般]	ban1	1 sort 2 kind 3 class 4 way 5 manner
+周[週]	zhou1	1 week 2 weekly 3 variant of 周zhōu [周]
+周围[周圍]	zhou1wei2	environs; surroundings; periphery
+地址[地址]	di4zhi3	noun address
+旅游[旅遊]	lü3you2	verb tour; tourism
+初中[初中]	chu1zhong1	noun abbreviation = 18907648初级中学chu1ji2zhong1xue2初级中学 junior middle school; junior high school
+吃货[吃貨]	chi1huo4	1 chowhound 2 foodie 3 a good-for-nothing
+忘记[忘記]	wang4ji4	verb 1 forget 2 overlook; neglect
+带[帶]	dai4	noun 1 belt; girdle; ribbon; band; tape 2 tyre 3 zone; area; belt 4 VARIANT OF 17012992白带bai2dai4白带 medicine leucorrhoea; whites  verb 1 take; bring; carry 2 do sth. incidentally 3 bear; have 4 have sth. attached 5 lead; head 6 train; teach; tutor 7 look after; bring up; raise 8 drive; spur on; bring along
+护照[護照]	hu4zhao4	noun passport
+需要[需要]	xu1yao4	noun need  verb need; want; require; demand
+签证[簽證]	qian1zheng4	noun visa; visé  verb grant a visa
+飞机[飛機]	fei1ji1	noun aircraft; aeroplane; plane
+行李[行李]	xing2li5	noun luggage; baggage
+海关[海關]	hai3guan1	noun customhouse; customs
+几乎[幾乎]	ji1hu1	adverb almost; nearly; practically
+证[証]	zheng4	1 to admonish 2 variant of 证zhèng [证]
+签[簽]	qian1	verb 1 sign; autograph 2 make brief comments on a document  noun 1 bamboo slips used for divination or drawing lots 2 label; sticker 3 slender pointed piece of bamboo or wood  verb (of sewing) tack
+离开[離開]	li2//kai1	verb leave; depart from; deviate from
+检查[檢查]	jian3cha2	verb 1 check up (or out); inspect; examine 2 VARIANT OF 23772672检讨jian3tao3检讨1 make a self-criticism  noun self-criticism
+提[提]	ti2	verb 1 (dī) carry; hold (sth. with a handle) 2 lift; raise; promote 3 shift to an earlier time; move up a date 4 put forward; bring up; raise 5 draw (or take) out; extract 6 summon (a prisoner) for interrogation 7 mention; refer to; bring up  noun 1 dipper 2 rising stroke (in Chinese characters)
+努力[努力]	nu3li4	verb (-//-) make great efforts; try hard; exert oneself  adjective strenuous; arduous
+紧[緊]	jin3	verb tighten  adjective 1 tight; taut; close 2 urgent; pressing; tense 3 strict; stringent 4 hard up; short of money
+怪[怪]	guai4	noun monster; demon  adjective 1 strange; odd; queer; bewildering 2 find sth. strange; wonder at  adverb colloquial quite; rather  verb blame
+啤[啤]	pi2	beer
+奇[奇]	qi2	1 strange 2 odd 3 weird 4 wonderful 5 surprisingly 6 unusually
+难过[難過]	nan2guo4	adjective 1 difficult; hard 2 sorry; bad; sad
+紧张[緊張]	jin3zhang1	adjective 1 nervous; keyed up 2 tense; intense; strained 3 in short supply; tight
+生气[生氣]	sheng1//qi4	verb take offence; get angry  noun biod; vigour; vim; vitality
+看起来[看起來]	kan4qi5lai5	adverb seem; appear; look as if (or though)
+奇怪[奇怪]	qi2guai4	verb feel surprised; wonder  adjective strange; surprising; odd
+哭[哭]	ku1	verb cry; weep; wail
+怕[怕]	pa4	verb 1 fear; dread; afraid of 2 cannot withstand; affected by 3 afraid something might happen; anxious about; concerned for (or about)  adverb [expressing supposition, judgement, estimation, etc.] I am afraid (that); I suppose; perhaps
+遇[遇]	yu4	noun 1 chance; opportunity 2 (Yù) a surname  verb 1 meet; encounter; run into 2 literary treat; receive
+经常[經常]	jing1chang2	adjective day-to-day; everyday; daily  adverb frequently; constantly; regularly; often
+关心[關心]	guan1xin1	verb concerned about; show solicitude for; care for; express interest in
+热情[熱情]	re4qing2	noun ardency; ardour; enthusiasm; zeal; warmth  adjective warm; fervent; enthusiastic; warm-hearted
+遇到[遇到]	yu4//dao4	verb run into; encounter; come across
+向上[向上]	xiang4shang4	adverb upward; up  verb advance; make one's way up (or forward)
+借[借]	jie4	verb 1 borrow 2 lend  verb 1 make use of; take advantage of (an opportunity, etc.) 2 use as a pretext
+向[嚮]	xiang4	noun 1 direction 2 (Xiàng) a surname  verb face; turn towards (opp. 背)  literary shortly before; towards
+清楚[清楚]	qing1chu5	verb be clear about; understand  adjective clear; distinct
+留学[留學]	liu2//xue2	verb study abroad
+打算[打算]	da3suan5	verb plan; intend  noun consideration; calculation
+愿意[願意]	yuan4yi5	verb 1 wish; like; want 2 be willing; be ready
+结婚[結婚]	jie2//hun1	verb marry; get married; be married
+选择[選擇]	xuan3ze2	noun choice  verb select; choose; opt
+机会[機會]	ji1hui5	noun chance; opportunity
+搬[搬]	ban1	verb 1 take away; move; remove 2 move (house) 3 apply indiscriminately; copy mechanically
+变[變]	bian4	verb 1 become different; change 2 change into; become 3 transform; change; alter 4 unexpected turn of events 5 sell off (property) 6 be flexible 7 changeable; changed  noun abbreviation VARIANT OF 17608960变文bian4wen2变文 literature popular form of narrative literature that flourished in the Tang Dynasty (618-907), with alternate prose and rhyme for recitation and singing (often on Buddhist themes)
+算[算]	suan4	verb 1 calculate; count; reckon; compute; figure 2 include; count in 3 plan; calculate 4 guess; think; suppose 5 consider; regard as; count as 6 carry weight; count 7 [followed by 了] let it be; let it pass  adverb at long last; in the end; finally
+变化[變化]	bian4hua4	noun change; variation  verb change; vary
+选[選]	xuan3	noun 1 person or thing selected 2 selections; anthology  verb 1 select; choose; pick (up) 2 elect
+婚[婚]	hun1	1 to marry 2 marriage 3 wedding 4 to take a wife
+择[擇]	ze2	1 to select 2 to choose 3 to pick over 4 to pick out 5 to differentiate 6 to eliminate 7 also pr. [zhái]
+认真[認真]	ren4zhen1	adjective conscientious; earnest; serious  (-//-) verb take seriously; take to heart
+愿[愿]	yuan4	1 honest and prudent 2 variant of 愿yuàn [愿]
+害[害]	hai4	noun evil; harm; calamity (opp. 利, 益 )  verb 1 do harm to; impair; cause trouble to 2 kill; murder 3 contract (an illness); suffer from 4 feel (ashamed, afraid, etc.)  adjective harmful; destructive; injurious (opp. 益)
+放心[放心]	fang4//xin1	verb 1 set one's mind at rest; be at ease; rest assured; feel relieved 2 have confidence in sb.; trust sb.
+害怕[害怕]	hai4pa4	verb be afraid; be scared
+分手[分手]	fen1//shou3	verb 1 say good-bye; part 2 part (company); end a friendship or relationship 3 break up
+当然[當然]	dang1ran2	adverb without doubt; certainly; of course  adjective 1 natural 2 ex officio
+环境[環境]	huan2jing4	noun environment; surroundings; circumstances
+安静[安靜]	an1jing4	adjective quiet; peaceful; silent; calm  verb quiet down
+声音[聲音]	sheng1yin1	noun sound; noise; voice
+影响[影響]	ying3xiang3	noun influence; effect  verb affect; influence  adjective dated groundless; hearsay; gossip
+层[層]	ceng2	measure word 1 storey; floor 2 a component part in a sequence 3 layer; stratum  noun layer; tier
+阳[陽]	yang2	1 positive (electric.) 2 sun 3 male principle (Taoism) 4 Yang, opposite: 阴yīn [阴]
+楼[樓]	lou2	noun 1 storied building; tower 2 storey; floor 3 superstructure 4 [in the names of certain kinds of shops, restaurants, etc.] 5 ornamental archway; ceremonial gateway 6 (Lóu) a surname
+最后[最後]	zui4hou4	noun 1 final; last; ultimate 2 finally; last; lastly
+邻居[鄰居]	lin2ju1	noun neighbour
+脏[臟]	zang4	noun internal organs of the body, usu. the heart, liver, spleen, lungs, and kidneys; viscera
+丢[丟]	diu1	verb 1 lose; mislay 2 throw; cast; toss 3 put (or lay) aside
+垃圾桶[垃圾桶]	la1ji1tong3	1 rubbish bin 2 trash can 3 garbage can 4 Taiwan pr. [lèsètǒng]
+桶[桶]	tong3	noun 1 tub; pail; bucket; keg; barrel 2 barrel (of petroleum)
+脏[髒]	zang1	1 dirty 2 filthy 3 to get (sth) dirty
+静[靜]	jing4	adjective still; quiet; calm
+垃圾[垃圾]	la1ji1	noun 1 rubbish; garbage; refuse 2 figurative junk (圾圾 jī)
+重[重]	zhong4	noun weight  verb lay stress on; attach importance to  adjective 1 heavy; weighty; important 2 considerable in amount or value 3 deep; heavy; serious; strong 4 discreet; careful
+突然[突然]	tu1ran2	adjective sudden; abrupt; unexpected  adverb suddenly; abruptly; unexpectedly
+小姐[小姐]	xiao3jie3	noun 1 dated young (unmarried) lady 2 Miss 3 euphemistic prostitute; street girl
+经理[經理]	jing1li3	noun manager; director  verb handle; manage
+相[相]	xiang1	1 each other 2 one another 3 mutually 4 fret on the neck of a pipa 琵琶pípa [琵琶] (a fret on the soundboard is called a 品pǐn [品])
+解[解]	jie3	verb 1 separate; divide 2 untie; undo 3 allay; dispel; dismiss 4 literary explain; interpret; solve 5 understand; comprehend 6 relieve oneself  noun mathematics solution
+决[決]	jue2	1 to decide 2 to determine 3 to execute (sb) 4 (of a dam etc) to breach or burst 5 definitely 6 certainly
+相信[相信]	xiang1xin4	verb believe in; convinced; trust; have faith in
+办法[辦法]	ban4fa3	noun way; means; measure
+解决[解決]	jie3jue2	verb 1 solve; resolve; settle 2 dispose of; finish off
+会议[會議]	hui4yi4	noun 1 meeting; conference 2 council; congress
+江[江]	jiang1	noun 1 river 2 (Jiāng) Chang Jiang River 3 (Jiāng) a surname
+动物[動物]	dong4wu4	noun animal
+熊猫[熊貓]	xiong2mao1	panda M: 只zhī [只]
+料[料]	liao4	verb 1 suppose; expect; anticipate 2 manage; take care of  noun 1 material; stuff 2 (grain) feed; forage; fodder 3 makings; material; stuff 4 opaque coloured glassware  measure word [for pills of Chinese medicine] prescription
+骑[騎]	qi2	verb 1 ride (an animal, bicycle, etc.); sit on the back of 2 straddle  noun 1 horse; horse rider 2 cavalryman; cavalry
+自行车[自行車]	zi4xing2che1	noun bicycle; bike
+爬山[爬山]	pa2shan1	verb 1 (-//-) climb a mountain 2 colloquial sports mountain climbing; mountaineering
+功夫[功夫]	gong1fu5	noun 1 skill 2 kung fu 3 VARIANT OF 21658112工夫gong1fu5工夫 a time b spare (or free) time c dialect period of time d effort; work
+特别[特別]	te4bie2	adjective special; particular; out of the ordinary  adverb 1 especially; particularly 2 for a special purpose; specially; deliberately 3 all the more; in particular
+读[讀]	du2	verb 1 read; read aloud 2 attend school 3 (of computers) read; read data; examine information computing computing 4 be pronounced in a certain way
+历史[歷史]	li4shi3	noun 1 history 2 past events 3 personal records 4 history (as a course of study) 5 historical record (or document, data)
+或者[或者]	huo4zhe3	adverb perhaps; maybe  conjunction 1 or; either... or... 2 no matter what, how, etc.
+一般[一般]	yi1ban1	adjective 1 same as; just like 2 general; ordinary; common 3 average; mediocre  noun one kind
+了解[瞭解]	liao3jie3	1 to understand 2 to realize 3 to find out
+兴趣[興趣]	xing4qu4	noun interest; taste
+为了[為了]	wei4le5	preposition for; for the sake of; in order to
+感[感]	gan3	noun sense; sensation; feeling; impression  verb 1 feel; sense; be aware 2 move; touch; affect 3 thankful; grateful; be obliged 4 Chinese medicine affected (by cold); catch cold 5 photography sensitize
+将[將]	jiang1	verb 1 literary support; take; bring 2 take care of (one's health) 3 literary do sth.; handle (a matter) 4 chess check 5 put sb. on the spot 6 incite sb. to action; challenge; prod 7 dialect (of domestic animals) give birth to; breed  adverb usually literary 1 be going to; be about to; will; shall 2 certainly; no doubt 3 besides; and; also 4 just; barely  preposition 1 with; by means of; by 2 [used in the same way as 把 2]  auxiliary dialect [between a verb and its complement of direction]
+麻将[麻將]	ma2jiang4	noun mah-jong
+腿[骽]	tui3	1 hip bone 2 old variant of 腿tuǐ [腿]
+瘦[瘦]	shou4	adjective 1 thin; emaciated (opp. 胖, 肥) 2 lean (opp. 肥) 3 tight (opp. 肥) 4 not fertile; poor
+胖[胖]	pang4	adjective fat; stout; plump (opp. 瘦)
+转机[轉機]	zhuan3ji1	noun favourable turn; take a turn for the better  verb change to another plane; (flight) transfer
+柜台[櫃檯]	gui4tai2	noun counter; bar
+银行[銀行]	yin2hang2	noun bank
+换钱[換錢]	huan4//qian2	verb 1 change money (or bills); exchange 2 sell
+退房[退房]	tui4fang2	to check out of a hotel room
+导游[導遊]	dao3you2	noun 1 tourist guide 2 guidebook  verb conduct a sightseeing tour
+闷[悶]	men4	noun low spirits  adjective 1 bored; depressed; vexed; in low spirits 2 tightly closed; sealed
+死[死]	si3	verb die; be dead (opp. 生, 活)  adjective 1 to the death 2 implacable; deadly 3 fixed; rigid; inflexible 4 impassable; closed 5 colloquial extremely; to death 6 colloquial [expressing anger, complaint, etc., sometimes jocularly] devil; damn it  adverb [often in the negative] stubbornly; adamantly; unyieldingly
+着急[著急]	zhao2//ji2	adjective worried; excited; anxious
+公斤[公斤]	gong1jin1	measure word kilogram (kg); kilo
+照顾[照顧]	zhao4gu5	verb 1 give consideration to; show consideration for; make allowance(s) for 2 look after; care for; attend to 3 offer preferential treatment 4 (of a customer) patronize; shop at
+抽[抽]	chou1	verb 1 take out (from in between); draw 2 take (a part from a whole) 3 obtain by drawing, etc. 4 (of certain plants) put forth  verb 1 shrink 2 lash; whip; thrash 3 sports drive
+抽烟[抽煙]	chou1//yan1	verb smoke (a cigarette or a pipe)
+回答[回答]	hui2da2	verb answer; reply; response
+句子[句子]	ju4zi5	noun sentence
+咳嗽[咳嗽]	ke2sou5	verb cough
+词典[詞典]	ci2dian3	noun dictionary
+简单[簡單]	jian3dan1	adjective 1 simple; uncomplicated (opp. 复杂) 2 [usu. in the negative] commonplace; ordinary 3 oversimplified; casual
+翻[翻]	fan1	verb 1 turn upside down or inside out; turn over 2 look through; search 3 reverse 4 cross; get over 5 multiply; double 6 translate 7 colloquial fall out; break up
+充值[充值]	chong1//zhi2	verb 1 invest (more) money 2 deposit (more) money in a phone card, etc.
+取消[取消]	qu3xiao1	verb cancel; call off; abolish
+漫游[漫游]	man4you2	V. go on a pleasure trip; roam
+翻译[翻譯]	fan1yi4	verb translate; interpret  noun translator; interpreter
+数学[數學]	shu4xue2
+终于[終於]	zhong1yu2	adverb at (long) last; in the end; finally
+结束[結束]	jie2shu4	verb 1 end; finish; conclude; wind up; close 2 [often in the early vernacular] style of dressing; makeup
+成绩[成績]	cheng2ji4	noun result (of work or study); achievement; success
+担心[擔心]	dan1//xin1	verb worry; feel anxious
+寒[寒]	han2
+暑[暑]	shu3
+放假[放假]	fang4//jia4	verb have a holiday (or vacation); have a day off
+复习[複習]	fu4xi2	verb review; revise
+寒假[寒假]	han2jia4	noun winter vacation
+暑假[暑假]	shu3jia4	noun summer vacation (or holidays)
+松[鬆]	song1
+放松[放鬆]	fang4song1	verb relax; slacken; loosen
+专业[專業]	zhuan1ye4	noun 1 specific field of study; specialization; speciality; discipline 2 specialized trade (or profession); special line; professional
+美术[美術]	mei3shu4	noun 1 the fine arts; art 2 painting
+休息[休息]	xiu1xi5	verb 1 have (or take) a rest; rest; have a break 2 have a holiday (or vacation)
+灯[燈]	deng1	noun 1 lamp; lantern; light 2 common name for valve; tube 3 burner
+厨房[廚房]	chu2fang2	noun kitchen
+客厅[客廳]	ke4ting1	noun drawing room; parlour; living room; sitting room
+空调[空調]	kong1tiao2	noun abbreviation 1 air conditioning 2 = 25036544空气调节器kong1qi4tiao2jie2qi4空气调节器 air conditioner
+把[把]	ba3	noun 1 handle (of a pushcart, etc.) 2 bundle; bunch  verb 1 hold; grasp 2 hold (a baby while it urinates) 3 control; monopolize; dominate 4 guard; watch 5 colloquial close to; be located at 6 colloquial give  measure word 1 [for sth. with a handle] 2 handful of 3 [for certain abstract concepts] 4 [for sth. done with the hand]  preposition [used to shift the object ahead of the verb, which must be reduplicated or accompanied by some other word or expression]  auxiliary [after 百, 千, 万, 里, 丈, 顷, 斤, 个, etc., without numeral] about; or so  adjective dated sworn
+画[畫]	hua4	noun 1 drawing; painting; picture 2 decorated with paintings or pictures  verb draw; paint  noun 1 stroke (of a Chinese character) 2 dialect horizontal stroke (in Chinese characters)  verb draw; mark; sign
+扫[掃]	sao3	verb 1 sweep (away) 2 eliminate; clear away 3 pass quickly along (or over); sweep 4 put all together 5 abbreviation computing scan
+净[凈]	jing4
+厕所[廁所]	ce4suo3	noun lavatory; toilet
+客人[客人]	ke4ren5	noun 1 visitor; guest (opp. 主人) 2 guest (at a hotel, etc.); traveller 3 customer 4 VARIANT OF 24998144客商ke4shang1客商 travelling trader; travelling merchant; foreign business people
+坏[壞]	huai4	adjective 1 bad; harmful (opp. 好) 2 becoming bad; ruined; spoiled; rotten 3 [after certain verbs or adjectives] extreme; very much  noun evil idea; dirty trick  verb spoil; ruin
+电梯[電梯]	dian4ti1	noun lift; elevator
+被[被]	bei4	preposition [used in a passive structure to introduce either the doer of the action, or the action alone]  noun quilt  verb literary 1 cover (with) 2 suffer
+干净[乾凈]	gan1jing4
+打扫[打掃]	da3sao3	verb clean; sweep
+拿[拿]	na2	verb 1 hold; take 2 seize; capture; take over 3 have a firm grasp of; be able to do; be sure of 4 put sb. in a difficult (or awkward) position 5 get; receive; gain; win 6 (of a chemical agent, etc.) turn sth. bad 7 pretend; feign; behave in a certain manner  preposition colloquial 1 by means of; with; by 2 [in the same way as 把2] at; to; about; as; with 3 [with 来说, 来讲, 来看, etc.] as regards; as to
+地图[地圖]	di4tu2	noun map
+红绿灯[紅綠燈]	hong2lü4deng1	noun traffic light; traffic signal
+接[接]	jie1	verb 1 come into contact with; come close to 2 connect; join; put together; continue 3 catch; take hold of 4 receive 5 meet; welcome 6 take over; succeed to
+免费[免費]	mian3//fei4	verb free of charge; free; gratis
+安排[安排]	an1pai2	noun arrangement; plan; schedule; disposal  verb arrange (matters); plan in detail; dispose (manpower); fix up
+活动[活動]	huo2dong5	noun 1 activity; manoeuvre 2 psychology behaviour  verb 1 act; move about; exercise 2 be shaky; unsteady 3 use personal influence or irregular means  adjective movable; mobile; flexible
+时差[時差]	shi2cha1	noun 1 time difference; jet lag 2 astronomy equation of time
+街[街]	jie1	noun 1 street 2 dialect country fair; market
+景[景]	jing3	noun 1 view; scenery; scene 2 situation; condition 3 setting; scenery (of a play or film) 4 scene (of a play) 5 (Jǐng) a surname  verb admire; revere; respect
+说出来[說出來]	shuo1 chu1lai5	R.V. speak out
+绿[綠]	lü4	adjective green  verb turn green
+风景[風景]	feng1jing3	noun scenery; landscape
+累[累]	lei4	adjective (be) tired; weary; fatigued  verb 1 tire; wear out; strain 2 work hard; toil
+观光[觀光]	guan1guang1	verb go sightseeing; visit; tour
+参观[參觀]	can1guan1	verb visit; have a look around
+博物馆[博物館]	bo2wu4guan3	noun museum
+博物[博物]	bo2wu4	noun dated natural science; general name for zoology, botany, mineralogy, physiology, etc.
+刚才[剛才]	gang1cai2
+发[發]	fa1	verb 1 send (out); issue; emit; give forth; shoot 2 utter; express 3 come or bring into existence; generate; germinate 4 become; come to be 5 (of foodstuffs) rise or expand when leavened or soaked 6 develop; expand 7 open up; expose 8 feel; have a feeling 9 start; set out 10 colloquial become rich; make a fortune 11 show one's feelings  measure word [for bullets and shells]
+电子邮件[電子郵件]	dian4zi3you2jian4	email
+其实[其實]	qi2shi2	adverb actually; in fact; as a matter of fact
+短信[短信]	duan3xin4	noun short message; text message
+信号[信號]	xin4hao4	noun signal
+谈[談]	tan2	verb talk; chat; discuss  noun 1 what is said or talked about 2 (Tán) a surname
+邮[郵]	you2
+登录[登錄]	deng1lu4	verb 1 computing telnet; register 2 internet log on; log in
+密码[密碼]	mi4ma3	noun 1 cipher; cipher (or secret) code; cryptogram (opp. 明码) 2 biology code
+段[段]	duan4	measure word 1 section; segment; part 2 paragraph; passage  noun 1 abbreviation VARIANT OF 59525859段位duan4wei4段位 sports level; dan (in judo, weiqi, etc.) 2 section (as an administrative level in a mine or factory) 3 (Duàn) a surname
+升[升]	sheng1	verb rise; hoist; go up; ascend (opp. 降)  verb promote (opp. 降)  noun a sheng measure, equal to 0.1 dou (斗)  measure word 1 litre (l) 2 sheng (a traditional unit of volume, equivalent to 1 litre or 1.76 pints or 0.22 gallon)
+据[據]	ju4	noun evidence; certificate; proof  verb 1 occupy; seize 2 rely on; depend on  preposition according to; on the grounds of
+升职[升職]	sheng1zhi2	1 to get promoted (at work etc) 2 promotion
+面试[面試]	mian4shi4	verb interview
+决定[決定]	jue2ding4	noun decision; resolution  verb 1 decide; resolve; make up one's mind 2 determine; decide  adjective decisive
+满意[滿意]	man3yi4	verb satisfied; feel pleased; content  adjective satisfactory; gratified
+根据[根據]	gen1ju4	noun basis; grounds; foundation  preposition on the basis of; according to; in the light of; in line with
+满[滿]	man3	adjective 1 full; filled; packed 2 satisfied 3 complacent; conceited  verb 1 fill 2 expire; reach the limit  adverb 1 completely; entirely; perfectly 2 quite; very  noun (Mǎn) 1 Manchu ethnic group 2 a surname
+出差[出差]	chu1//chai1	verb 1 go (or be away) on official business; go on a business trip 2 take up short-term tasks in transport, construction, etc.
+老板[老闆]	lao3ban3	noun 1 shopkeeper; proprietor; boss 2 dated theater respectful address to an opera star or a troupe leader
+麻烦[麻煩]	ma2fan5	adjective troublesome; inconvenient  noun trouble; inconvenience  verb inconvenience sb.; trouble sb.; bother
+表现[表現]	biao3xian4	noun 1 expression; manifestation; display 2 behaviour; performance  verb 1 show; display; manifest 2 show off 3 describe; express
+认为[認為]	ren4wei2	verb think; consider; hold; deem
+月亮[月亮]	yue4liang5	noun moon
+圆[圓]	yuan2	noun 1 mathematics circle; sphere; ring 2 coin of fixed value and weight  verb make plausible; justify  adjective 1 round; circular; spherical 2 tactful; satisfactory 3 (of a voice) sweet and agreeable  measure word yuan (monetary unit of China, equal to 10 jiao or 100 fen)
+月饼[月餅]	yue4bing5	noun moon cake (esp. for the Mid-Autumn Festival)
+聚会[聚會]	ju4hui4	noun get-together  verb (-//-) get together; meet
+划[劃]	hua4	verb 1 delimit; differentiate history history 2 transfer; assign 3 plan  VARIANT OF 22946304画hua4画2 noun 1 stroke (of a Chinese character) 2 dialect horizontal stroke (in Chinese characters)  verb draw; mark; sign
+龙舟[龍舟]	long2zhou1	noun folk tradition dragon boat
+端午节[端午節]	Duan1wu3jie2	noun Dragon Boat Festival (the 5th day of the 5th lunar month)
+粽子[粽子]	zong4zi5	noun pyramid-shaped dumpling made of glutinous rice wrapped in bamboo or reed leaves (usu. eaten during the Dragon Boat Festival)
+饼[餅]	bing3	noun 1 round flat cake 2 sth. shaped like a cake or bun
+恭喜[恭喜]	gong1xi3	verb courteous congratulate
+汤圆[湯圓]	tang1yuan2	noun (usu. stuffed) dumplings made of glutinous rice flour served in soup
+财[財]	cai2
+端[端]	duan1	noun 1 end; extremity 2 beginning 3 point; item 4 reason; cause  verb hold sth. level with both hands; carry  adjective upright; proper
+酸[酸]	suan1	noun chemistry acid  adjective 1 sour; tart 2 sick at heart; grieved; distressed 3 pedantic; impractical  adjective tingle; ache
+珍[珍]	zhen1	noun treasure  verb value highly; treasure  adjective precious; valuable; rare
+珍珠[珍珠]	zhen1zhu1	noun pearl
+鸭[鴨]	ya1	noun duck
+卤[鹵]	lu3	noun 1 bittern 2 chemistry halogen 3 thick gravy used as a sauce for noodles, etc. 4 thick infusion  verb stew chickens, ducks, meat, etc. in soy sauce  adjective stupid; dull
+卷[捲]	juan3	noun 1 cylindrical mass of sth.; roll 2 (of hair dressing) curler  verb 1 roll up 2 sweep off; carry along  measure word roll; spool; reel  noun roll (a food)
+卤肉饭[滷肉飯]	lu3rou4fan4
+馒头[饅頭]	man2tou5	noun 1 steamed bun (or bread) 2 dialect steamed stuffed bun
+春卷[春捲]	chun1juan3	noun spring roll (a thin sheet of dough, rolled, stuffed, and fried)
+蔬菜[蔬菜]	shu1cai4	noun vegetables; greens; greenstuff
+宫保鸡丁[宮保雞丁]	gong1bao3ji1ding1	1 Kung Pao Chicken 2 spicy diced chicken
+聚[聚]	ju4	verb assemble; gather; get together
+赞[贊]	zan4
+自拍[自拍]	zi4pai1	1 to take a picture or video of oneself 2 to take a selfie 3 selfie
+好友[好友]	hao3you3	noun close (or bosom) friend
+帮助[幫助]	bang1zhu4	noun help; assistance; aid  verb help; assist; aid
+菜鸟[菜鳥]	cai4niao3	noun 1 colloquial poultry raised for meat 2 slang rookie; green hand
+囧[囧]	jiong3	noun archaic window  adjective 1 archaic bright 2 slang internet awkward; embarrassed; tricky
+萌[萌]	meng2	noun bud; sprout; shoot  verb 1 (of plants) sprout; shoot forth; bud; germinate 2 start; spring up; occur 3 literary hoe  VARIANT OF 26697728氓meng2氓 méng noun archaic common people
+刷[刷]	shua1	verb 1 clean with a brush; brush; scrub 2 paint, daub, paste up, etc. with a brush 3 colloquial eliminate; remove  noun brush  onomatopoeia swish; rustle
+粉丝[粉絲]	fen3si1	noun 1 fine or thin vermicelli or noodles (made from bean, potato starch, etc.) 2 transliteration slang fans
+眉[眉]	mei2	noun 1 eyebrow; brow 2 top margin of a page
+美眉[美眉]	mei3mei2	noun 1 original meaning beautiful brows 2 beautiful girl; beauty; girls met on-line
+土豪[土豪]	tu3hao2	noun 1 local tyrant 2 dialect nouveau riche
+关注[關注]	guan1zhu4	verb follow with interest; pay close attention to; show solicitude for
+转发[轉發]	zhuan3fa1	verb 1 transmit 2 (of an email) forward 3 relay; transmit 4 VARIANT OF 36677120转载zhuan3zai3转载 zhuǎnzǎi reprint sth. published elsewhere; reprint
+微信[微信]	Wei1xin4	Weixin or WeChat (mobile text and voice messaging service developed by Tencent 腾讯Téngxùn [腾讯])
+聊天[聊天]	liao2tian1
+高富帅[高富帥]	gao1fu4shuai4	"Mr Perfect" (i.e. tall, rich and handsome) (Internet slang)
+评论[評論]	ping2lun4	noun comment; commentary; review  verb comment on; discuss
+分享[分享]	fen1xiang3	verb share (joy, rights, etc.); partake of
+点赞[點贊]	dian3zan4	to like; to upvote (on social media)
+收据[收據]	shou1ju4	noun receipt
+费用[費用]	fei4yong5	noun cost; expenses
+报销[報銷]	bao4//xiao1	verb 1 submit an expense account; reimburse 2 hand in a list of used articles 3 colloquial write off; wipe out
+尽快[儘快]	jin3kuai4	adverb as quickly (or soon, early) as possible; ASAP
+回复[回復]	hui2fu4	verb 1 reply (to a letter) 2 return to normal state
+广告[廣告]	guang3gao4	noun advertisement; ad; commercial
+预算[預算]	yu4suan4	noun budget  verb draw up (or prepare) a budget
+协议[協議]	xie2yi4	noun 1 agreement 2 telecommunications protocol  verb agree on
+报告[報告]	bao4gao4	noun report; speech; talk; lecture  verb report; make known
+销[銷]	xiao1	noun expend; spend  verb 1 melt (metal) 2 cancel; annul 3 sell; market  noun bolt; pin  verb fasten with a bolt; bolt
+合[合]	he2	verb 1 close; shut 2 join; combine (opp. 分) 3 suit; agree 4 be equal to; add up to 5 literary be proper  noun 1 literary match; marriage; spousing 2 astronomy conjunction  adjective whole  measure word VARIANT OF 23125760回合hui2he2回合  noun music note of the scale in gongchepu (工尺谱), corresponding to 5 in numbered musical notation
+协[協]	xie2	verb assist  adverb jointly; coordinately
+签名[簽名]	qian1ming2	verb (-//-) sign one's name; autograph  noun signature; autograph
+项目[項目]	xiang4mu4	noun item; project
+低[低]	di1	adjective low (opp. 高)  verb droop; hang down
+资[資]	zi1
+资本[資本]	zi1ben3	noun 1 capital 2 capitalize on; sth. used to one's own advantage
+保险[保險]	bao3xian3	verb (-//-) insure  noun insurance  adjective safe
+投资[投資]	tou2zi1	noun money invested; investment  verb (-//-) invest
+风险[風險]	feng1xian3	noun risk; hazard
+版权[版權]	ban3quan2	noun copyright
+律师[律師]	lü4shi1	noun lawyer; (US) attorney
+咨询[咨詢]	zi1xun2	verb seek advice from; hold counsel with; consult
+合作[合作]	he2zuo4	verb 1 cooperate; collaborate; work together 2 co-author; compose jointly
+险[險]	xian3	noun 1 place of difficult access; narrow pass; defile 2 abbreviation insurance  adjective 1 dangerous; perilous 2 sinister; vicious; venomous  adverb by a hair's breadth; by inches; nearly
+律[律]	lü4
+贵姓[貴姓]	gui4xing4
+持[持]	chi2	verb 1 hold; grasp 2 support; maintain 3 manage; run 4 control; hold under duress 5 oppose
+护[護]	hu4	verb 1 protect; guard; shield 2 be partial to; shield from censure
+感谢[感謝]	gan3xie4	noun thanks  verb thank; be grateful
+救护车[救護車]	jiu4hu4che1	ambulance
+保持[保持]	bao3chi2	verb keep; maintain; preserve
+联系[聯繫]	lian2xi4	noun contact; touch; connection; relation  verb 1 arrange; get in touch with 2 integrate; relate; link
+伤[傷]	shang1	noun wound; injury  verb 1 injure; hurt 2 be distressed 3 get sick of sth.; develop an aversion to sth. 4 be harmful to; hinder
+辛[辛]	xin1
+警[警]	jing3
+愉[愉]	yu2
+救命[救命]	jiu4//ming4	verb save life; rescue
+受伤[受傷]	shou4//shang1	verb injured; wounded; sustain an injury
+偷[偷]	tou1	verb 1 steal; pilfer; make off with 2 find (time)  noun thief; pilferer  adverb stealthily; secretly; on the sly  verb drift along
+严[嚴]	yan2	adjective 1 tight; close 2 strict; severe; stern; harsh; rigorous 3 severe; extreme; hard  noun 1 dated father 2 (Yán) a surname
+察[察]	cha2
+严重[嚴重]	yan2zhong4	adjective serious; grave; critical
+意外[意外]	yi4wai4	noun accident; mishap  adjective unexpected; unforeseen
+发生[發生]	fa1sheng1	verb happen; occur; take place
+辛苦[辛苦]	xin1ku3	verb courteous work hard; go to great trouble; go through hardships  adjective hard; strenuous; toilsome; laborious
+希望[希望]	xi1wang4	verb hope; wish; expect  noun 1 hope; wish; expectation 2 that on which hope is placed
+压[壓]	ya1	verb 1 press; push down; hold down; weigh down 2 keep under control; control; keep under; quell; hold back 3 bring pressure to bear on; suppress; daunt; intimidate 4 approach; be getting near; draw near 5 shelve; set aside 6 risk (money); stake 7 surpass; outdo 8 (in a gamble) bet; stake  noun pressure
+奖[獎]	jiang3	noun award; prize; reward  verb encourage; praise; reward
+责任[責任]	ze2ren4	noun 1 duty; responsibility 2 responsibility for a fault or wrong; blame
+压力[壓力]	ya1li4	noun 1 physics pressure (force) 2 overwhelming force; pressure 3 burden; strain
+奖金[獎金]	jiang3jin1	noun money award; bonus; premium; incentive payment
+加班[加班]	jia1//ban1	verb work overtime; work an extra shift
+工资[工資]	gong1zi1	noun wage; pay; salary
+抱[抱]	bao4	verb 1 hold or carry in the arms; embrace; hug 2 have one's first child or grandchild 3 adopt (a child) 4 colloquial hang together 5 dialect (of shoes and clothes) fit 6 cherish; harbour  measure word armful of  verb hatch (eggs); brood
+责[責]	ze2
+暖[暖]	nuan3	adjective warm; genial  verb warm up
+误[誤]	wu4	noun mistake; error  verb 1 miss 2 hinder; impede; harm  adjective 1 wrong; false; inaccurate 2 by mistake; by accident
+误会[誤會]	wu4hui4	noun misunderstanding  verb misunderstand; mistake; misconstrue
+意见[意見]	yi4jian5	noun 1 idea; view; opinion; suggestion 2 objection; differing opinion; complaint
+抱歉[抱歉]	bao4qian4	adjective sorry; apologetic; regretful
+干燥[乾燥]	gan1zao4	adjective 1 dry; arid (opp. 潮湿) 2 (of expression) dull; uninteresting
+温[溫]	wen1
+凉[涼]	liang2	noun cold  adjective 1 cool; cold 2 figurative discouraged; disappointed
+谅[諒]	liang4
+凉快[涼快]	liang2kuai5	verb cool oneself; cool off  adjective nice and cool; pleasantly cool
+温度[溫度]	wen1du4	noun temperature
+羽[羽]	yu3
+度[度]	du4	noun 1 linear measure 2 degree of intensity 3 limit; extent; degree 4 tolerance; magnanimity 5 consideration 6 occasion; time 7 rules; code of conduct 8 manner; temperament; disposition 9 limited time or space  verb 1 spend; pass 2 (of Buddhist monks or nuns, or Taoist priests) preach; convert; proselytize  measure word 1 unit of measurement for angles, temperature, etc.; degree 2 electricity kilowatt-hour (kWh)
+大约[大約]	da4yue1	adverb 1 approximately; about 2 probably
+岁[歲]	sui4
+放弃[放棄]	fang4qi4	verb abandon; give up; renounce
+懒[懶]	lan3	adjective 1 lazy; indolent; slothful (opp. 勤) 2 sluggish; languid
+醒[醒]	xing3	verb 1 regain consciousness; sober up; come to 2 wake up; be awake 3 be clear in mind 4 be striking; catch one's attention 5 culinary arts keep dough (after mixing it) till it reach the desired state—softness, evenness, etc.
+鼓[鼓]	gu3	noun 1 drum 2 sth. resembling a drum  verb 1 beat; strike; sound 2 blow with bellows, etc. 3 rouse; agitate; pluck up 4 bulge; swell
+橙[橙]	cheng2	noun 1 orange (the tree and the fruit) 2 orange colour
+提醒[提醒]	ti2//xing3	verb remind; warn; call attention to
+骨折[骨折]	gu3zhe2	verb medicine fracture
+摩托车[摩托車]	mo2tuo1che1
+区[區]	qu1	noun 1 area; district; region 2 administrative division; district  verb distinguish; classify; subdivide
+试穿[試穿]	shi4chuan1	try on (a garment, shoes, etc.)
+试[試]	shi4	verb try; test  noun examination; test
+结账[結賬]	jie2//zhang4	verb settle (or square) accounts; balance the books
+救护[救護]	jiu4hu4	verb relieve a sick or injured person; give first-aid; rescue  noun first-aid staff
+创口贴[創口貼]	chuang1kou3tie1	band-aid
+创口[創口]	chuang1kou3	noun wound; cut
+贴[貼]	tie1	noun subsidy; allowance  verb 1 paste; stick; glue 2 keep close to; nestle 3 subsidize; help financially  measure word [for medicated plaster]  VARIANT OF 31492096帖tie1帖 tiē adjective 1 submissive; obedient 2 proper; appropriate
+简历[簡歷]	jian3li4	noun biographical notes; curriculum vitae (CV); résumé
+危险[危險]	wei1xian3	verb dangerous; perilous
+免[免]	mian3	verb 1 excuse sb. from sth.; exempt; dispense with; waive 2 remove from office; dismiss; relieve 3 avoid; avert; escape 4 should not; not be allowed
+无线[無線]	wu2xian4	adjective wireless; cableless
+网[網]	wang3	noun 1 net 2 network 3 web; Internet; net  verb 1 catch with a net; net 2 cover or enclose as with a net
+词[詞]	ci2	noun 1 word; term 2 words; wording 3 literature ci, poetry written to certain tunes with strict tonal patterns and rhyme schemes, in fixed numbers of lines and words, originating in the Tang Dynasty (618-907) and fully developed in the Song Dynasty (960-1279) 4 speech; statement
+心理[心理]	xin1li3	noun mentality; psychology
+有趣[有趣]	you3qu4	adjective interesting; fascinating; amusing
+杂志[雜誌]	za2zhi4	noun 1 magazine; journal 2 [often in book titles] miscellaneous notes; notes
+适合[適合]	shi4he2	verb suit; fit
+学期[學期]	xue2qi1	noun school term; term; semester
+页[頁]	ye4	noun page; leaf  measure word leaf; page; sheet
+演员[演員]	yan3yuan2	noun actor or actress; performer
+研究[研究]	yan2jiu1	verb 1 study; research 2 consider; discuss; deliberate
+欧洲[歐洲]	Ou1zhou1
+时代[時代]	shi2dai4	noun 1 times; age; era; epoch 2 the times; our age; the day; the present era 3 period in one's life
+闹钟[鬧鐘]	nao4zhong1	noun alarm (clock)
+公交车[公交車]	gong1jiao1che1	(public) bus (or tram)
+晚点[晚點]	wan3//dian3	verb (of a train, ship, etc.) late; behind schedule
+口罩[口罩]	kou3zhao4	noun gauze mask (worn over nose and mouth); surgical mask
+结果[結果]	jie1//guo3	verb bear fruit; fructify
+够[夠]	gou4	adjective enough; sufficient; adequate  adverb enough (to reach a certain extent); sufficiently  verb 1 reach (sth. by stretching) 2 reach (a standard or level)
+方便[方便]	fang1bian4	verb 1 make things convenient for sb. 2 euphemistic have money to spare or lend 3 euphemistic go to the lavatory  noun convenience; favour
+记得[記得]	ji4//de5	verb remember; recall; keep in memory
+胃口[胃口]	wei4kou5	noun 1 appetite 2 liking 3 figurative ambition; appetite
+邀[邀]	yao1	verb 1 invite; ask 2 literary solicit; seek 3 literary intercept
+宠物[寵物]	chong3wu4	noun pet
+外地[外地]	wai4di4	noun parts of the country other than where one is
+蛇[蛇]	she2	noun snake; serpent
+计划[計劃]	ji4hua4	noun plan; project; programme  verb map out; plan
+陪[陪]	pei2	verb 1 accompany; keep sb. company 2 assist
+室内[室內]	shi4nei4	noun indoor; interior
+讨厌[討厭]	tao3//yan4	verb dislike; loathe; be disgusted with  adjective 1 disagreeable; disgusting; repugnant 2 hard to handle; troublesome; nasty
+盆[盆]	pen2	noun 1 basin; tub; pot 2 sth. shaped like a basin  measure word [for things held in a basin, tub, or pot]
+抽屉[抽屜]	chou1ti5	noun drawer (of a piece of furniture)
+单身[單身]	dan1shen1	noun 1 unmarried; single 2 not be with one's family; live alone
+辞职[辭職]	ci2//zhi2	verb resign; hand in one's resignation
+厉害[厲害]	li4hai5	adjective 1 (of a wild animal or of one's temper, words, etc.) fierce; terrible 2 (of a person) strict; stern; harsh 3 (of illness, heat, cold, etc.) intense; severe; terrible 4 colloquial great; impressive; awesome; amazing
+队[隊]	dui4	noun 1 row of people; line 2 team; group 3 abbreviation Young Pioneers  measure word file; line; row
+奥运[奧運]	Ao4yun4	noun abbreviation 1 Olympic Movement 2 Olympiad
+态度[態度]	tai4du5	noun 1 manner; bearing; how one conducts oneself 2 attitude; approach; stance
+价格[價格]	jia4ge2	noun price
+塑料[塑料]	su4liao4	noun plastic
+平时[平時]	ping2shi2	noun 1 at ordinary times; in normal times 2 in peacetime
+挂[掛]	gua4	verb 1 hang; put up 2 remain unsettled; unresolved 3 hang up; ring off 4 call (or phone, ring) up; put through to 5 hitch; get caught; snag 6 be concerned about 7 covered (or coated) with 8 register (at a hospital, etc.) 9 stay (online)  measure word set or string (of objects)
+遛狗[遛狗]	liu4//gou3	verb walk a dog
+收拾[收拾]	shou1shi5	verb 1 put in order; tidy; clear away 2 get things ready; pack 3 repair; mend 4 colloquial settle scores with; deal with 5 liquidate; eliminate
+躺[躺]	tang3	verb lie; recline
+化妆[化妝]	hua4//zhuang1	verb 1 (of actors) make up 2 put on make-up; make up
+预约[預約]	yu4yue1	noun appointment  verb make an appointment
+钱[錢]	qian2	noun 1 copper coin; cash 2 money; wealth 3 fund; sum 4 copper coin-shaped object 5 (Qián) a surname  measure word qian (a traditional unit of weight, equal to 0.01 jin (市斤), and equivalent to 5 grams or 0.176 ounce)
+获取[獲取]	huo4qu3	verb procure; obtain; gain; reap
+邮局[郵局]	you2ju2	noun post office
+胶带[膠帶]	jiao1dai4	noun 1 transparent packing tape; adhesive tape 2 magnetic tape made of plastic 3 rubberized tape; adhesive tape
+皮带[皮帶]	pi2dai4	noun 1 leather belt; belt 2 mechanics (driving) belt
+称[稱]	cheng1	verb 1 call 2 say; state 3 commend; praise  noun name  verb weigh  verb literary lift up; raise
+复印[複印]	fu4yin4	verb xerox; duplicate
+打印[打印]	da3yin4	verb 1 (-//-) put a seal on; stamp 2 cut a stencil and mimeograph; mimeograph 3 computing print
+文件[文件]	wen2jian4	noun 1 official documents; papers; instruments 2 articles or works on political theories, current affairs, academic research, etc. 3 computing file
+箱[箱]	xiang1	noun 1 chest; box; case; trunk 2 anything in the shape of a box
+信封[信封]	xin4feng1	noun envelope
+邮编[郵編]	you2bian1	noun abbreviation = 34992896邮政编码you2zheng4bian1ma3邮政编码 postcode; zip code
+稍等[稍等]	shao1deng3	to wait a moment
+工作人员[工作人員]	gong1zuo4ren2yuan2	personnel; staff member; functionary
+喂[喂]	wei4	interjection hello; hey  verb 1 feed (animals); raise 2 feed (people); put food into someone's mouth 3 pass the ball to sb.
+快递[快遞]	kuai4di4	verb send by express  noun abbreviation express delivery; expressage; fast mail
+洗衣[洗衣]	xi3//yi1	verb wash clothes; do laundry
+洗衣液[洗衣液]	xi3yi1ye4	liquid laundry detergent
+取[取]	qu3	verb 1 take; get; fetch 2 aim at; seek 3 adopt; assume; choose
+卫生纸[衛生紙]	wei4sheng1zhi3	toilet paper
+楼下[樓下]	lou2xia4	noun downstairs (opp. 楼上)
+乱[亂]	luan4	noun 1 upheaval; riot; unrest; turmoil 2 disorder; disturbance; trouble 3 archaic literature last paragraph of a musical composition or genre of classical Chinese poetry  verb throw into disorder; confuse; mix up  adjective 1 in disorder; in a mess; in confusion 2 in a confused state of mind 3 (of a society) turbulent; riotous 4 (of sexual relationships) improper; promiscuous  adverb indiscriminately; at random; arbitrarily
+查[查]	cha2	verb 1 check; examine 2 look into; investigate 3 look up; consult
+名片[名片]	ming2pian4	noun visiting card; calling card; name card; business card
+明信片[明信片]	ming2xin4pian4	noun postcard
+介[介]	jie4
+坠楼[墜樓]	zhui4lou2	verb 1 fall off a building 2 commit suicide by jumping off a building
+保护[保護]	bao3hu4	verb protect; safeguard  noun protection; safeguarding
